@@ -42,3 +42,5 @@ Then run the program
 ./profiling.sh "number_of_threads"
 ```
 For example, `./profiling.sh 8`.
+
+## Example use case for DPC++.. To be upgraded!
